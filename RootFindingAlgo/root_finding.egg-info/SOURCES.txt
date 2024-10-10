@@ -1,0 +1,12 @@
+README.md
+setup.py
+root_finding.egg-info/PKG-INFO
+root_finding.egg-info/SOURCES.txt
+root_finding.egg-info/dependency_links.txt
+root_finding.egg-info/requires.txt
+root_finding.egg-info/top_level.txt
+src/BisectionMethod.cpp
+src/NewtonRaphsonMethod.cpp
+src/pybind_module.cpp
+test/test.py
+test/test_optimize.py

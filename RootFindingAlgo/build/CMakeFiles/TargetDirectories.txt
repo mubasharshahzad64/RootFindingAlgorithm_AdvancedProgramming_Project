@@ -1,0 +1,4 @@
+/Users/vishal/Documents/Advanced Programmimg/RootFindingAlgo/build/CMakeFiles/rootFinder.dir
+/Users/vishal/Documents/Advanced Programmimg/RootFindingAlgo/build/CMakeFiles/root_finding.dir
+/Users/vishal/Documents/Advanced Programmimg/RootFindingAlgo/build/CMakeFiles/edit_cache.dir
+/Users/vishal/Documents/Advanced Programmimg/RootFindingAlgo/build/CMakeFiles/rebuild_cache.dir
